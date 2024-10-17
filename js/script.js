@@ -1,5 +1,5 @@
 function meuEscopo() {
-    const form = document.querySelector('.form'); // .form é basicamente referente a classe ´form´do html.
+    const form = document.querySelector('.form');
     const resultado = document.querySelector('.resultado');
 
     const pessoas = [];
